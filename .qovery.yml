@@ -1,4 +1,3 @@
 application:
   name: rudderstack-transformer
   project: CHANGEME
-  publicly_accessible: true
